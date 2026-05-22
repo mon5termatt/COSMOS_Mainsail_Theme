@@ -19,9 +19,9 @@ Every file is optional. Mainsail only loads what you place in `.theme`.
 
 - COSMOS Firmware installed and working on your printer.
 
-# How to install
+## How to install
 
-If you are using COSMOS. you probably know what you are doing already. however, if you have no brain and cant figure it out by yourself, here is a guide.
+If you are using COSMOS, you probably know what you are doing already. However, if you have no brain and can't figure it out by yourself, here's a guide.
 
 ### 1. Create the theme folder
 
@@ -50,7 +50,7 @@ If something does not appear, confirm filenames match the table above exactly (i
 
 ## Partial install
 
-You can copy only the assets you want—for example, only `custom.css` for colors without custom backgrounds or logo.
+You can copy only the assets you want - for example, only `custom.css` for colors without custom backgrounds or logo.
 
 ## Customize colors
 
@@ -58,14 +58,14 @@ Edit `custom.css`. Panel backgrounds use the CSS variable `--v-panel-base` in `:
 
 ## Remove the theme
 
-Delete the files in `.theme` folder, or remove the entire `.theme` folder, then hard-refresh the browser.
+Delete the files in the `.theme` folder, or remove the entire `.theme` folder, then hard-refresh the browser.
 
 ## References
 
 - [Mainsail custom themes](https://docs.mainsail.xyz/features/custom-themes/)
 - [Custom CSS](https://docs.mainsail.xyz/features/custom-themes/custom-css/)
 - [COSMOS Firmware](https://github.com/OpenCentauri/cosmos)
-- [Mainsail for Neptune (For the original theme)](https://github.com/zzcatvs/mainsail-for-neptune)
+- [Mainsail for Neptune (for the original theme)](https://github.com/zzcatvs/mainsail-for-neptune)
 
-#### Special thanks to:
+## Special thanks
 - [ELEGOO](https://www.elegoo.com) - for designing such shit firmware and hardware components that we had to replace the entire firmware just to get a decent UI.
