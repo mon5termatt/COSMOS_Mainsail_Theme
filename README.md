@@ -1,6 +1,6 @@
 # COSMOS Mainsail Theme
 
-A lightweight custom theme for [COSMOS](https://github.com/OpenCentauri/cosmos) firmware on Centuri Carbon printers. There is no installer script - copy the files by hand to avoid extra load on the printer.
+A lightweight custom theme for [COSMOS](https://github.com/OpenCentauri/cosmos) firmware on Centauri Carbon printers. There is no installer script - copy the files by hand to avoid extra load on the printer.
 
 ## What’s included
 
@@ -21,7 +21,7 @@ Every file is optional. Mainsail only loads what you place in `.theme`.
 
 # How to install
 
-## If you are using COSMOS. you probably know what you are doing already. however, if you have no brain and cant figure it out by yourself, here is a guide.
+If you are using COSMOS. you probably know what you are doing already. however, if you have no brain and cant figure it out by yourself, here is a guide.
 
 ### 1. Create the theme folder
 
